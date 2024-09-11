@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>java.rs.ac.bg.fon.ai</groupId>
+    <artifactId>Projekat_teretana</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <exec.mainClass>rs.ac.bg.fon.ai.projekat_teretana.Projekat_teretana</exec.mainClass>
+    </properties>
+   
+    
+    
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.netbeans.external/AbsoluteLayout -->
+        <dependency>
+            <groupId>org.netbeans.external</groupId>
+            <artifactId>AbsoluteLayout</artifactId>
+            <version>RELEASE220</version>
+        </dependency>
+
+
+
+    
+        <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.8.9</version>
+        </dependency>
+        
+        <!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
+        <dependency>
+            <groupId>com.mysql</groupId>
+            <artifactId>mysql-connector-j</artifactId>
+            <version>9.0.0</version>
+        </dependency>
+        
+        
+        <!-- JUnit 5 -->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.9.1</version>
+            <scope>test</scope>
+        </dependency>
+        
+       
+
+        <!-- PowerMockito 2 -->
+        <!-- https://mvnrepository.com/artifact/org.powermock/powermock-module-junit5 -->
+
+        <!-- Mockito -->
+        <!-- https://mvnrepository.com/artifact/org.mockito/mockito-core -->
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-core</artifactId>
+            <version>5.12.0</version>
+            <scope>test</scope>
+        </dependency>
+
+        
+       
+
+        <!-- https://mvnrepository.com/artifact/org.mockito/mockito-junit-jupiter -->
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-junit-jupiter</artifactId>
+            <version>5.10.0</version>
+            <scope>test</scope>
+        </dependency>
+
+        
+        
+
+    </dependencies>
+    
+
+</project>

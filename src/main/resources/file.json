@@ -1,0 +1,60 @@
+[
+  {
+    "korisnik": {
+      "idKorisnika": 36,
+      "ime": "Trajce",
+      "prezime": "Krstic",
+      "datumRodjenja": "Jan 5, 1999, 12:00:00 AM",
+      "adresa": "Mite Ruzica 12",
+      "kontakt": "0617334567",
+      "grad": {
+        "idGrada": 2,
+        "naziv": "Novi Sad"
+      },
+      "tipovi": [
+        {
+          "idTipa": 2,
+          "nazivTipa": "Trening snage",
+          "opis": "Trening snage, takođe poznat kao trening s tegovima ili otporom, ima brojne koristi za zdravlje i dobrostanje.\r\nNekoliko ključnih svrha treninga snage:\r\n-Povećanje mišićne mase i snage\r\n-Održavanje zdrave telesne mase\r\n-Poboljšanje metaboličke aktivnosti\r\n-Poboljšanje koordinacije i ravnoteže\r\n-Smanjenje rizika od povreda\r\n-Poboljšanje funkcionalnosti svakodnevnih aktivnosti i prevencija gubitka mišićne mase tokom starenja"
+        }
+      ]
+    },
+    "potroseneKal": 200,
+    "otkucajiSrca": 100,
+    "Naziv klase: ": "EvidentiranjePrisustva"
+  },
+  {
+    "korisnik": {
+      "idKorisnika": 32,
+      "ime": "Petko",
+      "prezime": "Petkovic",
+      "datumRodjenja": "May 25, 2000, 12:00:00 AM",
+      "adresa": "Hercegovacka 2",
+      "kontakt": "061733454",
+      "grad": {
+        "idGrada": 1,
+        "naziv": "Beograd"
+      },
+      "tipovi": [
+        {
+          "idTipa": 2,
+          "nazivTipa": "Trening snage",
+          "opis": "Trening snage, takođe poznat kao trening s tegovima ili otporom, ima brojne koristi za zdravlje i dobrostanje.\r\nNekoliko ključnih svrha treninga snage:\r\n-Povećanje mišićne mase i snage\r\n-Održavanje zdrave telesne mase\r\n-Poboljšanje metaboličke aktivnosti\r\n-Poboljšanje koordinacije i ravnoteže\r\n-Smanjenje rizika od povreda\r\n-Poboljšanje funkcionalnosti svakodnevnih aktivnosti i prevencija gubitka mišićne mase tokom starenja"
+        },
+        {
+          "idTipa": 5,
+          "nazivTipa": "Hiit",
+          "opis": "Trening visokog intenziteta, poznat i kao HIIT (High-Intensity Interval Training), postao je popularan zbog svoje efikasnosti i različitih koristi koje pruža.\r\nNekoliko ključnih svrha HIIT treninga:\r\n-Efikasan način sagorevanja kalorija\r\n-Poboljšanje kardiovaskularnog zdravlja\r\n-Povećanje izdržljivosti\r\n-Brzi rezultati u skraćenom vremenskom periodu\r\n-Održavanje mišićne mase i poboljšanje insulinske osetljivosti"
+        },
+        {
+          "idTipa": 8,
+          "nazivTipa": "Trening agilnosti",
+          "opis": "Trening agilnosti fokusiran je na poboljšanje brzine, preciznosti, ravnoteže, koordinacije i fleksibilnosti u pokretima.\r\nNekoliko ključnih svrha treninga agilnosti:\r\n-Poboljšanje sportskih performansi\r\n-Smanjenje rizika od povreda\r\n-Brže reakcije i agilnost uma\r\n-Poboljšanje estetskih elemenata u plesu i umetnosti kretanja\r\n(za plesače i ljude koji se bave umetnošću kretanja,\r\nagilnost igra ključnu ulogu u izvođenju elegantnih i preciznih pokreta)\r\n"
+        }
+      ]
+    },
+    "potroseneKal": 200,
+    "otkucajiSrca": 100,
+    "Naziv klase: ": "EvidentiranjePrisustva"
+  }
+]
